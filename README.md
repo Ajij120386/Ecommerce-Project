@@ -15,25 +15,11 @@
 - Authorization validation for Admin Access and Customer Access ✔
 
 # ADMIN PANEL
- - Add a product ✔
- - view Product ✔
- - Delete a Product ✔
- - update product ✔
- - Add a Category ✔
- - view Category (Data tables) ✔
- - update Category  ✔
- - Delete category ✔
- - Add a Sub-Category ✔
- - view Sub-Category (Data tables) ✔
- - update Sub-Category  ✔
- - Delete Sub-category ✔
- - Add / view /update/Delete a Category ✔
- - Add / view / update / Delete a Sub-Category ✔
- 
- - Add / view / update / Delete a Band ✔
- - view Band (Data tables) ✔
- - update Band   ✔
- - Delete Band ✔
+
+ - A dashboard  which show total number of Product , Catagories , Sub-catagories , Bands , orders , Registered User
+ - Add / view (Data tables) / update / Delete a Category ✔
+ - Add / view (Data tables) / update / Delete a Sub-Category ✔
+ - Add / view (Data tables) / update / Delete a Band ✔
  - Handle Order Delivery  ✔
  - Pending Order  List ✔
  - Completed Order List ✔
