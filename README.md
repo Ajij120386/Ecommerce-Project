@@ -7,11 +7,6 @@
  
 ## Features
 
-
-### NOTE
- - Admin Dashboard is only accessible to you if you clone it you can't Signup for Admin Account I have added dummy Product and categories 
-
-
 ### Multi User Login System
 - SignIn / SignUp ✔
 - Forget Password ✔
