@@ -27,6 +27,9 @@
  - view Sub-Category (Data tables) ✔
  - update Sub-Category  ✔
  - Delete Sub-category ✔
+ - Add / view /update/Delete a Category ✔
+ - Add / view / update / Delete a Sub-Category ✔
+ 
  - Add / view / update / Delete a Band ✔
  - view Band (Data tables) ✔
  - update Band   ✔
