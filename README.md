@@ -1,7 +1,4 @@
  
- 
- 
-
 ## Features
 
 #### NOTE
@@ -20,9 +17,7 @@
  - Add / view (Data tables) / update / Delete a Category ✔
  - Add / view (Data tables) / update / Delete a Sub-Category ✔
  - Add / view (Data tables) / update / Delete a Band ✔
- - Handle Order Delivery  ✔
- - Pending Order  List ✔
- - Completed Order List ✔
+ - View All Order &  Handle Order Delivery  ✔
  - Handle User (View / Delete / Block) ✔
  - search product by category Name ✔
  
@@ -48,17 +43,21 @@ More Functionality will be added with time
 
 
 ## Tech
-- Nextjs 13
-- Typescript
-- tailwind css
-- Redux toolkit
-- joi validation
-- mongoDB
-- SWR hooks for fetching API 
+- HTML
+- CSS
+- JS
+- PHP
+
+
+
+
+
+
  
- 
- - don't forget to leave a star ! :)
+  - don't forget to leave a star ! :)
 
 ## Authors
 
+- [Mohammad Ajij](https://github.com/Ajij120386)
+- [Israt Jahan Tarifa](https://github.com/Israt-Tarifa)
 -
