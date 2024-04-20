@@ -132,9 +132,9 @@ More Functionality will be added with time
 
 
 #### view Product of Specific category with Dynamic Breadcamp 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/7babf0cb-2b67-439d-9859-61f21d2ce453)
 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/df41987a-d2e3-4681-b814-41d1986de7af)
+![Screenshot (326)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/b9834a4a-2c15-468b-90db-d58c9d361475)
+![Screenshot (325)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/aa96f002-b8af-4909-9922-9f8fd836e4bc)
 
 #### view Product of Detail with Dynamic Breadcamp 
 
