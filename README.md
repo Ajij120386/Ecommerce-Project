@@ -132,11 +132,13 @@ More Functionality will be added with time
 #### Log in Page & Register Page
 
 ![Screenshot (329)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/2b33ab09-12a6-4a9a-89ce-24f045bc379a)
-![Screenshot (331)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/4fb37dc7-de7f-4433-9901-dc0896bf6cbd)
+
+![Screenshot (330)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/5e2e5e1f-6be4-44b5-ae0e-dd00e98b76bf)
 
 #### Modify Profile
 
-![Screenshot (336)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f8aae005-87ed-4fb5-9205-7278ac5a09ac)
+![Screenshot (336)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/8e1f192a-bd4f-4575-a1f2-d03650a26feb)
+
 
 
 #### view Product of Specific category with Dynamic Breadcamp 
