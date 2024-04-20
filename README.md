@@ -15,7 +15,7 @@
 
 # ADMIN PANEL
 
- - A dashboard  which show total number of Product , Catagories , Sub-catagories , Bands , orders , Registered User
+ - A dashboard  which show total number of Product , Catagories , Sub-catagories , Bands , orders , Registered User  ✔
  - Add / view (Data tables) / update / Delete a Category ✔
  - Add / view (Data tables) / update / Delete a Sub-Category ✔
  - Add / view (Data tables) / update / Delete a Band ✔
@@ -32,10 +32,10 @@
 - Increase Decrease cart Item  Quantity ✔ (IF product Instock Quantity is less then your cart quantity then you are unable to  increase that product Quantity)
 - Alert if InStock Quantity isn't Available ✔
 - Bookmark favourite Product ✔
-- remove product from bookmark ✔
+- Remove product from bookmark ✔
 - Order a Product ✔
 - After Creating an Order Product Exists in Cart for current User will be Cleared ✔
-- track Order Status ✔
+- Track Order Status ✔
 - View Order Detail ✔
 
 #### Note 
@@ -135,20 +135,20 @@ More Functionality will be added with time
 
 ![Screenshot (330)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/5e2e5e1f-6be4-44b5-ae0e-dd00e98b76bf)
 
-#### Modify Profile
+#### User Profile
 
 ![Screenshot (336)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/8e1f192a-bd4f-4575-a1f2-d03650a26feb)
 
 
 
-#### view Product of Specific category with Dynamic Breadcamp 
+#### View Product of Specific category with Dynamic Breadcamp 
 ![Screenshot (324)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/706b1a86-1277-4c4a-b862-63ba7d3ca460)
 
 
 ![Screenshot (326)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/b9834a4a-2c15-468b-90db-d58c9d361475)
 
 
-#### view Product of Detail with Dynamic Breadcamp 
+#### View Product of Detail with Dynamic Breadcamp 
 
 ![Screenshot (328)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/68c7713d-8184-412b-97f2-f7334f033849)
 
@@ -173,11 +173,9 @@ More Functionality will be added with time
 
 #### Track Orders
 
-![Screenshot (333)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f14e4cd6-2624-42a7-bf21-11edb5b44a2b)
-
-
-#### Check order Details
 ![Screenshot (335)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/402c94c0-9d5d-40f6-a9b1-31ed018180d2)
+
+
 
 
 
