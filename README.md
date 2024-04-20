@@ -129,51 +129,56 @@ More Functionality will be added with time
 
 
 
+#### Log in Page & Register Page
+
+![Screenshot (329)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/2b33ab09-12a6-4a9a-89ce-24f045bc379a)
+![Screenshot (331)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/4fb37dc7-de7f-4433-9901-dc0896bf6cbd)
+
+#### Modify Profile
+
+![Screenshot (336)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f8aae005-87ed-4fb5-9205-7278ac5a09ac)
 
 
 #### view Product of Specific category with Dynamic Breadcamp 
+![Screenshot (324)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/706b1a86-1277-4c4a-b862-63ba7d3ca460)
+
 
 ![Screenshot (326)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/b9834a4a-2c15-468b-90db-d58c9d361475)
-![Screenshot (325)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/aa96f002-b8af-4909-9922-9f8fd836e4bc)
+
 
 #### view Product of Detail with Dynamic Breadcamp 
 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/9eda3f30-3a12-4401-952d-3a694b097e77)
+![Screenshot (328)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/68c7713d-8184-412b-97f2-f7334f033849)
+
 
 #### Cart Page 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/23b08511-0e6e-41c1-8b9d-7f72b5b65952)
+![Screenshot (332)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/167767e7-ff77-41b1-be9e-166cf16244c0)
 
-#### Alert IF Item Quantity isn't available in stock 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/3a129a57-2df3-440a-9b1c-5c43348027f5)
 
 
 #### Favourite Products
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a2debeef-585c-4bc5-bd39-4c6680deee7d)
+
+![Screenshot (334)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/750763a4-9de3-4d0c-b132-d9eb5cedf7d9)
 
 
-#### Delete Favourite Products
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/092ce378-7db0-4119-8130-65f5330cd689)
-
-
-#### Search Favourite Products with product Name
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/39e4d3f6-425c-444f-b316-5b2a2b587434)
 
 #### Order a Product
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a958670a-8d89-411c-af41-901d933920d7)
+
+![Screenshot (337)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/d3df8b08-c298-48af-b5aa-fe1f399fbe54)
+![Screenshot (338)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/9f32f6d9-a6e7-4c3c-baa2-fef6ae9f844d)
+![Screenshot (339)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/c5e29803-9b30-44de-9503-cdb301338b2e)
+![Screenshot (340)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/121366e1-dd0d-4b4d-95d1-ecfd3be8bbbd)
 
 #### Track Orders
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/8501280b-dbf8-4fdc-abf3-5afb003ac251)
+
+![Screenshot (333)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f14e4cd6-2624-42a7-bf21-11edb5b44a2b)
 
 
 #### Check order Details
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/139f02be-806f-4d8c-8cba-51948682277a)
+![Screenshot (335)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/402c94c0-9d5d-40f6-a9b1-31ed018180d2)
 
 
 
-
-
- 
-  - don't forget to leave a star ! :)
 
 ## Authors
 
