@@ -63,7 +63,8 @@ More Functionality will be added with time
 
 ####  View All Products
 
-![Screenshot (296)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/45aff3bb-ab3c-4f6e-8982-a629773fce90)
+
+![Screenshot (348)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/c7a80449-590c-4bc1-affb-6ebb72d815a7)
 
 
 #### Add New Product
@@ -151,7 +152,8 @@ More Functionality will be added with time
 
 #### View Product of Detail with Dynamic Breadcamp 
 
-![Screenshot (345)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/2e992bd9-f2f1-4eb8-8556-fca6fa480644)
+![Screenshot (345)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/88fc5910-3974-4514-bc78-f83d29bd75eb)
+
 
 
 
