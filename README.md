@@ -23,7 +23,7 @@
  - Handle User (View / Delete / Block) ✔
  
 
-# Customer
+# USER PANEL
 - View Product & Category ✔
 - view product related to specific category ✔
 - view dynamic pages detail with breadcamp ✔
@@ -53,35 +53,66 @@ More Functionality will be added with time
 
 
 ### Screen shots
-####  Admin Dashboard
-![1](https://user-images.githubusercontent.com/90745903/236361005-89f40e51-3aff-4e66-8aa2-941138a15316.png)
 
-#### Admin Add Product
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/8c2129fa-bbc4-4d03-b249-a9e4a26ba769)
+# ADMIN PANEL
 
-#### Admin Add Category
-![image](https://user-images.githubusercontent.com/90745903/236360988-8b7e6307-5365-4486-8404-b8ddaf1ab486.png)
-
-#### Admin View Category
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/79d3384f-0aed-4ca0-9bb6-c74a42042cfa)
-
-#### Admin View Product
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/f0a85e4a-891e-4c1f-86fe-206dedb6034c)
-
-#### Admin Search Product with category Name
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/76f09c2a-4c16-4784-afa0-5f424a42430f)
-
-#### Admin Search category with category Name
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/600bb84b-9401-48e9-90b8-44891f794b81)
-
-#### Pending Order List
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/66f07720-dc2f-4a05-98fc-d9c422665dc9)
+####   Dashboard
+![Screenshot (307)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/4b976ed7-5d5c-4e3e-8e9a-45c3170a0cff)
 
 
-#### Completed Order List
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/278e33ae-b7bb-4cf2-8ed3-18e06d1f368c)
+
+####  View All Products
+
+![Screenshot (296)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/45aff3bb-ab3c-4f6e-8982-a629773fce90)
 
 
+#### Add New Product
+
+![Screenshot (298)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/3f751cb8-2d39-4dae-a08f-7c27f4fcb74b)
+
+
+####  View All Categories
+
+![Screenshot (299)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/6ab8ecb8-c01a-461d-aeca-1913b0a89e9e)
+
+
+#### Add New Category
+
+![Screenshot (300)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/5a8a2cda-e6d9-4b28-bb68-7c319e6917d9)
+
+####  View All Sub-Categories
+
+![Screenshot (301)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/947598f3-2129-4f01-bc78-7b5120dd9704)
+
+#### Add New Sub-Category
+
+![Screenshot (308)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f648536a-dc60-4948-815c-155a5882478d)
+
+####  View All Bands
+
+![Screenshot (302)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/d840781d-465b-4e58-b80a-4ac5188f4d5b)
+
+
+#### Add New Band
+
+![Screenshot (309)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/ae74296f-7a45-4062-8363-acfcc0c70843)
+
+
+#### View All Order &  Handle Order Delivery
+
+![Screenshot (303)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f3b038b1-89ba-46ec-a0fc-f9e357fc375f)
+
+
+####  Handle User (View / Delete / Block) 
+
+![Screenshot (304)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/22c78d0a-b99a-4ae6-b8c1-97b45ff9ec2f)
+
+####  Handle Website Details
+
+![Screenshot (305)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/c1d202d1-db00-4932-aa72-524681969191)
+
+
+# USER PANEL
 
 #### Landing Page 
 
