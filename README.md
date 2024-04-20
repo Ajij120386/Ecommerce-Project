@@ -115,12 +115,20 @@ More Functionality will be added with time
 # USER PANEL
 
 #### Landing Page 
+![Screenshot (317)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/99c7a9be-086d-407c-b315-52a253bc66ea)
 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a4a21833-3f42-479f-99b8-1dba1b459f1b)
+![Screenshot (318)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/7c4435d7-a98d-4f26-a722-d25bc31ae3f4)
 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/bb8141aa-9ded-4a77-a653-c86733bd7871)
+![Screenshot (319)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/83b1240f-d930-493c-abf5-dce3efcb36b1)
 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/9970dabd-eb75-4c6b-8349-d55897a5f9c4)
+![Screenshot (320)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/68f7c786-9500-422f-9b73-b99e958bfc4c)
+
+![Screenshot (321)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/c50d82d5-38f4-4e44-98c6-042a2b18b457)
+
+![Screenshot (322)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/67f933b7-6ddf-47c0-a4bf-adf15d978d6b)
+
+
+
 
 
 #### view Product of Specific category with Dynamic Breadcamp 
