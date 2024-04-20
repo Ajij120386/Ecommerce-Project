@@ -15,7 +15,7 @@
 
 # ADMIN PANEL
 
- - A dashboard  which show total number of Product , Catagories , Sub-catagories , Bands , orders , Registered User
+ - A dashboard  which show total number of Product , Catagories , Sub-catagories , Bands , orders , Registered User  ✔
  - Add / view (Data tables) / update / Delete a Category ✔
  - Add / view (Data tables) / update / Delete a Sub-Category ✔
  - Add / view (Data tables) / update / Delete a Band ✔
@@ -173,11 +173,9 @@ More Functionality will be added with time
 
 #### Track Orders
 
-![Screenshot (333)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/f14e4cd6-2624-42a7-bf21-11edb5b44a2b)
-
-
-#### Check order Details
 ![Screenshot (335)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/402c94c0-9d5d-40f6-a9b1-31ed018180d2)
+
+
 
 
 
