@@ -189,13 +189,11 @@ More Functionality will be added with time
 #### Responsive
 
 
-![Screenshot (373)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/37d4c0ec-4fd4-46b8-87cd-d31e2756a34e)
-
+![Screenshot (373)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/4737b852-5dde-45b5-ad19-c541824d1f37)
 ![Screenshot (368)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/cb4372b1-4a7f-406f-887c-7272529b846e)
 ![Screenshot (369)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/e9d00f32-dd35-4c5d-bed6-9a2b91ab4000)
 ![Screenshot (370)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/e6c706db-c5af-4f84-b57f-0b3a9bdf7d9a)
 ![Screenshot (371)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/766ed439-6eec-4a9c-867d-467e5fdf746b)
-
 ![Screenshot (372)](https://github.com/Ajij120386/Ecommerce-Project/assets/66430791/b18f5602-59b4-4915-85ab-0ecf907e0bc4)
 
 ## Authors
